@@ -1,0 +1,41 @@
+Chapter 2 Review
+
+What is the purpose of the "Hello, World!" program?
+    The purpose of the program is to output the characters "Hello World." and wait for the users character input to exit the program
+
+Name the FOUR parts of a function
+    Return Type
+        depending on the function, it could be integer, chracter, etc... that is the return type. For example "return 0"
+    Name
+        The name of the function (most cases its main)
+    Parameter List
+        Enclosed within parenthesis() 
+    Function Body 
+        Set of curly braces listing the statements of the function that need to be performed
+
+Name a function that must appear in every C++ program   
+    main
+
+In the "Hello, World!" program, what is the purpose of the line return 0;?
+    This line is responsible for returning a integer type. 1 is for error(False), 0 is for "build successful" 
+
+What is the purpose of the compiler?
+    The purpose of the compiler is to "compile" the source code depending on the programming language of choice. For C++ on OSX it is clang++
+
+What is the purpose of the #include directive?
+    The purpose is to find/import the attached header file to the source code
+
+What does a .h suffix at the end of a file name signify in C++?
+    header file
+
+What does the linker do for your program?
+    "Links" the object files after the program has neared compilation to the executable file
+
+What is the difference between a source file and an object file?
+    the source file is the locate of the programs functions and "guts". The object file is machine readable code prior to tranmitting via m device
+
+What is an IDE and what does it do for you?
+    An IDE is a interactive development environment use instead of the command line. It has done many things, when I dont feel like using a compiler, I use the c++ way.
+
+If you understand everything in the textbook, why is it necessary to practice?
+    There is only 1 way to get better. 
