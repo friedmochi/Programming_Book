@@ -8,17 +8,17 @@
 int main() 
 {
 
-    int val1;
-    int val2;
+    double val1;
+    double val2;
 
-    cout << "Enter two numbers with a space between: ";
+    cout << "Enter two decimal point number with a space in-between: ";
     cin >> val1 >> val2;
 
     // min/max operations between two whole number values
-    int smaller = min(val1, val2);
-    int larger = max(val1, val2);
-    int difference = abs(val1 - val2); // abs = absolute value. If use enters a val1 as a smaller number to val2, abs converts it to non-negative
-    int product = val1 * val2;
+    double smaller = min(val1, val2);
+    double larger = max(val1, val2);
+    double difference = abs(val1 - val2); // abs = absolute value. If use enters a val1 as a smaller number to val2, abs converts it to non-negative
+    double product = val1 * val2;
      // Type cast from int to double to ensure floating-point division
     double ratio = static_cast<double>(val1) / static_cast<double>(val2);
 

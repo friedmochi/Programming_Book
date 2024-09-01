@@ -3,7 +3,8 @@
         {
             "name": "Mac",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/Users/jchapman/Documents/Coding /Programming_Book/**"
             ],
             "defines": [],
             "macFrameworkPath": [
