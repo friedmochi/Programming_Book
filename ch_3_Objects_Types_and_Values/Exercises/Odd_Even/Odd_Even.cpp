@@ -22,9 +22,10 @@ int main()
 //Lesson learned is the use of the modulous(%) operator. 
 /* git init (initialize repo)
  * git add . (add files to staging area)
- * git commit -m (commit staged files with comment)
+ * git commit -m "Message" (commit staged files with comment)
  * git push -u origin develop (push staged files to remote repo with specific branch)
  *  git remote -v (view what repo you are on)
  *  git branch (view the current branch you are on)
  *  -u : option sets the upstream tracking information, thus no need to add repo or branch "git push" and done.
 */
+
